@@ -1,0 +1,31 @@
+.heading{
+    font-size:45px;
+    width:100%;
+    margin:0px;
+    background-color: rgb(159, 195, 241);
+    box-shadow:10px 5px 30px grey;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.note{
+    font-size:13px;
+    color:black;
+}
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    background-color:rgb(255, 255, 187);
+    color:black;
+    font-weight:bold;
+    font-size:20px;
+    padding:20px 0px;
+    border: 3px dashed black;
+    font-family: 'Montserrat', sans-serif;
+}
+canvas{
+    padding:6px;
+    border: 2px dotted black;
+    box-shadow:10px 5px 30px grey;
+}
