@@ -28,4 +28,5 @@ canvas{
     padding:6px;
     border: 2px dotted black;
     box-shadow:10px 5px 30px grey;
+    background-color:white;
 }
